@@ -1,0 +1,14 @@
+body{
+  background: url("https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Promo-Meet-Model-Y-Desktop.jpg");
+  width: 100%;
+}
+h1{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+a{
+    text-align: center;
+}
+
